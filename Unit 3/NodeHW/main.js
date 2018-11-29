@@ -12,3 +12,4 @@ const string = require('./string-module.js')
 // console.log(multiply(5,5));
 console.log(string.firstLetter("HRTA"));
 console.log(string.reverseString("door"));
+console.log(string.capitalString("here"));
